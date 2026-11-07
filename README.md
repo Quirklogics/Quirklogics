@@ -42,39 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
----
-
-## 🧠 Currently Learning
-
-```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Problem Solving
-
-Data Structures & Algorithms
- ├── Arrays
- ├── Strings
- ├── HashMap
- ├── Linked List
- ├── Sliding Window
- └── Dynamic Programming
-
-Web Development
- ├── HTML
- ├── CSS
- └── JavaScript
-```
-
----
-
 ## 🚀 Current Focus
 
 * ☕ Improving Java
@@ -82,40 +49,9 @@ Web Development
 * 🧩 Solving LeetCode problems
 * 🌐 Learning Web Development
 * 🎨 Exploring UI/UX
-* 🛠️ Building real-world projects
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Solve 500+ LeetCode problems
-* [ ] Build real-world projects
-* [ ] Improve DSA and problem-solving skills
-* [ ] Learn Full-Stack Development
-* [ ] Contribute to Open Source
-* [ ] Get a Software Development Internship
-
----
-
-## 📂 Featured Projects
-
-🚧 **Currently building my portfolio...**
-
-More projects coming soon!
-
----
-
-## 🌱 My Philosophy
-
-> Learn → Build → Break → Fix → Repeat.
-
 ---
 
 ## 🤝 Let's Connect
-
-I'm always interested in meeting fellow developers, students, and people who enjoy learning technology.
-
-**Let's learn and build together! 🚀**
 
 ---
 
